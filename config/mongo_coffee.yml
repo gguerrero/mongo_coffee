@@ -1,0 +1,4 @@
+coffee_path: 'app/models/map_reduces'
+coffee_extensions:
+  - .js.coffee
+  - .coffee
