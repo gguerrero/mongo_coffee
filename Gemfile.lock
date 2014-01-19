@@ -3,7 +3,7 @@ PATH
   specs:
     mongo_coffee (0.2.0)
       coffee-script (~> 2.2.0)
-      mongoid (~> 3.1.6)
+      mongoid (~> 3.1.0)
       rails (~> 3.2.14)
 
 GEM
