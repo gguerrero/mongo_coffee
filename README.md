@@ -4,8 +4,8 @@ Map reduce your mongo documents writing in with coffeescript.
 As simple as it sounds! Finally you can organize and write your huge map/reduce/finalize functions in coffeescript syntax!
 
 ## Setup and run!
-The basic conventional config is already setup on the gem and is initialized within your rails app.
-Run **mongo_coffee:config** generator to copy config files on your rails project, so you can edit them as your needs:
+Run **mongo_coffee:config** generator to setup config files on your rails project.
+Then you can edit them as your needs:
 
 ```bash
 $ rails g mongo_coffee:config

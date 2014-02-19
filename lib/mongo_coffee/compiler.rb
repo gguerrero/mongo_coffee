@@ -12,8 +12,8 @@ module MongoCoffee
   class Compiler
 
     class << self
-      def setup!
-        @config = Config.load
+      def setup!(filename)
+        @config = Config.load filename
       end
 
       def compile(name, action)
