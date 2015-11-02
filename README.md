@@ -45,10 +45,5 @@ If you've defined a finalize coffesript function you can also use it with:
 Band.caffeine_map_reduce('playing_stats').caffeine_finalize('playing_stats').out(inline: 1)
 ```
 
-
-## ToDo
-At the moment, only [mongoid](http://mongoid.org/) ODM gem is supported.
-Hopefully [mongomapper](http://mongomapper.com/) is supported soon too.
-
 ## License
 This project uses [*MIT-LICENSE*](http://en.wikipedia.org/wiki/MIT_License).

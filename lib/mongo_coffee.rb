@@ -15,7 +15,3 @@ if defined? Mongoid
     include MongoCoffee::Mongoid::MapReduce
   end
 end
-
-# TODO: Add finders and MapReduce support for Mongomapper
-if defined? Mongomapper
-end
