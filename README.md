@@ -1,4 +1,5 @@
 # MongoCoffee
+[![Gem Version](https://badge.fury.io/rb/mongo_coffee.svg)](https://badge.fury.io/rb/mongo_coffee)
 
 Map reduce your mongo documents writing in with coffeescript.
 As simple as it sounds! Finally you can organize and write your huge map/reduce/finalize functions in coffeescript syntax!
