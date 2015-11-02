@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = MongoCoffee::VERSION
   s.authors     = ["Guillermo Guerrero"]
   s.email       = ["g.guerrero.bus@gmail.com"]
-  s.homepage    = "https://github.com/gguerrero/mongocoffee"
+  s.homepage    = "https://github.com/gguerrero/mongo_coffee#mongocoffee"
   s.summary     = "MongoDB mapReduce with coffeescript."
   s.description = "Map reduce your mongo documents writing in with coffeescript."
 
