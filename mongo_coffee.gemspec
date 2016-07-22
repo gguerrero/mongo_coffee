@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.files = `git ls-files`.split("\n")
 
-  s.add_dependency "rails", "~> 3.2.14"
+  s.add_dependency "rails", ">= 3.2.14"
   s.add_dependency "coffee-script", "~> 2.2.0"
-  s.add_dependency "mongoid", "~> 3.1.0"
+  s.add_dependency "mongoid", ">= 3.1.0"
 end
